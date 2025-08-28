@@ -1,6 +1,4 @@
-﻿using Domain.Abstractions;
-
-namespace Domain;
+﻿namespace Domain;
 
 public abstract class Entity<T> : IEntity<T>
 {

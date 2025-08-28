@@ -1,5 +1,4 @@
 ﻿namespace Domain.ValueObjects;
-
 public record Location
 {
     public string City { get; } = default!;

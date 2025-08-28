@@ -1,6 +1,4 @@
-﻿using Domain.ValueObjects;
-
-namespace Domain.Models;
+﻿namespace Domain.Models;
 
 public class Topic : Entity<TopicId>
 {
